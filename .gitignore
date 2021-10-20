@@ -8,6 +8,7 @@ __pycache__/
 
 #adding config file
 config.py
+config1.py
 
 # C extensions
 *.so
